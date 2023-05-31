@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = remote-s3
+['remote "remote-s3"']
+    url = s3://dengai-ds/dengai/
